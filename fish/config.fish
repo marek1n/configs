@@ -6,4 +6,4 @@ eval /opt/miniconda3/bin/conda "shell.fish" "hook" $argv | source
 
 # this has to be at the end
 starship init fish | source
-
+zoxide init fish | source

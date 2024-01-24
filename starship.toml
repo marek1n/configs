@@ -3,6 +3,12 @@ success_symbol = "[>](bold green)"
 error_symbol = "[x](bold red)"
 vimcmd_symbol = "[<](bold green)"
 
+[username]
+show_always = false
+
+[hostname]
+ssh_only = true
+
 [git_commit]
 tag_symbol = " tag "
 
